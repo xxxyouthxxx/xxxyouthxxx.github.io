@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[66],{722:function(t,n,s){"use strict";s.r(n);var e=s(0),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("像素狂热 | 保持谦虚 | 不断进步")])])}),[],!1,null,null,null);n.default=o.exports}}]);
